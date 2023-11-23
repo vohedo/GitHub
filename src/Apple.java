@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Apple {
+public class Apple {
+
 }
